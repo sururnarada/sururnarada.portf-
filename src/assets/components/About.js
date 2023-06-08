@@ -21,8 +21,9 @@ const About = () => {
               <p className="mb-4 text-accent">Freelance Web Developer</p>
               <hr className="mb-8 opacity-5" />
               <p className="mb-8">
-                I am Achmad surur, a front end engineer, my specialist is Javascript, CSS, Html5, Vue js, Tailwind css, React js. i am till green but iam eager to learn something new related to technology.
-                <br /> Lorem amet consectetur adipisicing elit. Officia, necessitatibus?
+                I am a freelance Front-End Developer. With expertise in HTML, CSS, and JavaScript, I create aesthetically pleasing and responsive web designs. I also have experience in integrating with APIs and front-end frameworks like
+                React or Vue.js. I continuously update my knowledge and skills in the latest technologies in Front-End Development.
+                <br /> I look forward to contributing to your projects. I am always open to discussions and collaborations, so feel free to reach out to me!
               </p>
             </div>
             {/* <button  className="btn btn-md bg-accent hover:bg-accent-hover transition-all">

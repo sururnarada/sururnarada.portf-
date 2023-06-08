@@ -10,10 +10,10 @@ const Services = () => {
         {/* section title */}
         <div className="flex flex-col items-center text-center">
           <h2 className="section-title before:content-services relative before:absolute before:opacity-40 before:-top-[2rem] before:-left-28 before:hidden before:lg:block">What I do for clients</h2>
-          <p className="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores beatae debitis obcaecati in rerum aspernatur, magni odio tempore repellendus esse.</p>
+          <p className="subtitle">"Customer-Centric Approach - Providing Personalized Services that Meet Your Needs"</p>
         </div>
         {/* item grid */}
-        <div className="grid lg:grid-cols-4 gap-8">
+        <div className="grid lg:grid-cols-3 gap-8">
           {services.map((services, index) => {
             const { icon, name, description } = services;
             return (
